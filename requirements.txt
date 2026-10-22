@@ -1,6 +1,6 @@
-cd 
-numpy
-scikit-learn
-plotly
-streamlit
-joblib
+  streamlit
+  pandas
+  numpy
+  scikit-learn
+  plotly
+  joblib

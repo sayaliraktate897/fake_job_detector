@@ -2,3 +2,5 @@
    .venv/
    data/
    *.zip
+   *.pyc
+fake_job_postings.csv
