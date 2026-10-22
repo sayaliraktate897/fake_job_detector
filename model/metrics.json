@@ -1,0 +1,41 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9801,
+      "precision": 0.7429,
+      "recall": 0.9017,
+      "f1": 0.8146,
+      "roc_auc": 0.9865,
+      "confusion_matrix": [
+        [
+          3349,
+          54
+        ],
+        [
+          17,
+          156
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.9801,
+      "precision": 1.0,
+      "recall": 0.5896,
+      "f1": 0.7418,
+      "roc_auc": 0.9913,
+      "confusion_matrix": [
+        [
+          3403,
+          0
+        ],
+        [
+          71,
+          102
+        ]
+      ]
+    }
+  },
+  "train_size": 14304,
+  "test_size": 3576
+}

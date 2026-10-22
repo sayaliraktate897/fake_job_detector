@@ -1,0 +1,6 @@
+cd 
+numpy
+scikit-learn
+plotly
+streamlit
+joblib
